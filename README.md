@@ -8,7 +8,7 @@
 2. Data Transformation :
    - In this phase a ColumnTransformer Pipeline is created.
    - for Numeric Variables first SimpleImputer is applied with strategy median , then Standard Scaling is performed on numeric data.
-   - for Categorical Variables SimpleImputer is applied with most frequent strategy, then ordinal encoding performed , after this data is scaled with Standard Scaler.
+   - for Categorical Variables SimpleImputer is applied with most frequent strategy, then ordinal encoding performed , after this data is scaled with Stusandard Scaler.
    - This preprocessor is saved as pickle file.
 
 
@@ -23,4 +23,4 @@
    - This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python.
 
 ## Screenshot :-
-<img src = "Screenshot.jpg">
+<img src = "Screenshot.png">
