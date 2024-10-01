@@ -22,5 +22,8 @@
 4. Prediction Pipeline :
    - This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python.
 
+## Process :-
+
+
 ## Screenshot :-
 <img src = "Screenshot.png">
