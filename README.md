@@ -23,7 +23,8 @@
    - This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python.
 
 ## Process :-
-
+ >- **[A pdf containing a skeleton overview of the overall project
+](https://github.com/Sinhaaz/ML-Project1/blob/main/ML%20Project-Student%20Performance%20Indicator.pdf)**
 
 ## Screenshot :-
 <img src = "Screenshot.png">
